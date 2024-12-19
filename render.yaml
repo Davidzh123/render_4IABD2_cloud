@@ -3,7 +3,7 @@ services:
     type: web
     runtime: node
     buildCommand: npm install
-    startCommand: npr start
+    startCommand: npm start
     region: frankfurt
     plan: free
     repo: https://github.com/Davidzh123/render_4IABD2_cloud
